@@ -1,1 +1,1 @@
-# SQL-For-Data-Science
+# SQL-For-Data-Science-Capstone-Project
